@@ -5,7 +5,6 @@ import App from './App'
 import router from './router'
 import * as axios from '@/axios/index'
 /* eslint-disable */
-import $ from 'jquery'
 import {
   Pagination,
   Dialog,
